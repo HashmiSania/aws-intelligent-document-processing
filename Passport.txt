@@ -1,0 +1,36 @@
+PASSPORT
+UNITED STATES OF AMERICA
+PASSEPORT
+Type/Type/Tipo
+Code/Code/Codigo
+Passport No./ No. du Passeport / No. de Passporte
+PASSPORTE
+P
+USA
+918268822
+Surname / Nom / Appelidos
+USA
+Alejandro
+Given Names / Prénoms / Nombres
+DEPARTM
+Rosalez
+Nationality / Nationalité / Nacionalidad
+UNITED STATES OF AMERICA
+OF
+Date of birth / Date de naissance / Fecha de nacimiento
+15 Apr 1990
+Place of birth / Lieu de naissance / Lugar de nacimiento
+Sex / Sexe / Sexo
+Texas, U.S.A.
+M
+Date of issue / Date de délivrance / Fecha de expedición
+Authority / Autorité / Autoridad
+29 Jan 2009
+United States
+Date of expiration / Date d'expiration / Fecha de caducidad
+31 Jan 2029
+Department of State
+Endorsements / Mentions Speciales / Anotaciones
+SEE PAGE 27
+P<USAROSALEZ<<ALEJANDRO<<<<<<<<<<<<<<<<<<<<<<
+349587345029USA1209381M2394820392344059 « 834983457

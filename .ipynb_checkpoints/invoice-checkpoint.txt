@@ -1,0 +1,36 @@
+INVOICE
+AnyCompany Hardwares LLC
+DATE
+May 24, 2020
+Apt. 574 774 Ninfa Turnpike
+INVOICE # 74075710-5
+East Santos CA 66966
+CUSTOMER ID
+2742
+Phone: (858)-555-0101
+DUE DATE Jun 08, 2020
+Bill To:
+Zhang Wei
+3097 O'Kon Islands, Roderickton
+California 05750
+Zhang.Wei@example.com
+Description
+Amount
+LifeProof FRE SERIES Waterproof Case
+$75.74
+M-Audio Oxygen Series 61 Ignite
+$169.01
+Mohu Leaf 50 TV Antenna
+$81.07
+Spyderco Yojimbo 2 G-10 Plain
+$145.33
+Total:
+$471.15
+Other Comments:
+Total Payment due in 30 days
+If paying by check, please include the invoice number
+in the check
+If you have any questions about this invoice, please contact us at
+Phone: (858)-555-0101
+Email: invoice inquiry@example.com
+Thank You For Your Business!!
